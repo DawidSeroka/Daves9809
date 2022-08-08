@@ -27,7 +27,7 @@ I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :mailbox:How to reach me: 
     * [![Linkedin Badge](https://img.shields.io/badge/-Daves9809-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daves9809/)
-    * [(https://img.shields.io/badge/-seroka.dawid1@gmail.com-white?style=flat&logo=Gmail&logoColor=red)](gmail.com)
+    * [Gmail](gmail.com)
 <!--
 **Daves9809/Daves9809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
