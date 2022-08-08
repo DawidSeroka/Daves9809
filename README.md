@@ -8,15 +8,18 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
+
+  
+</div>
+
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=Daves9809&style=flat-square&color=blue" alt=""/>
   
   <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-  
 </div>
-
 
 
 ### :man_technologist: About Me :
@@ -25,7 +28,7 @@ I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :seedling: I’m currently learning Jetpack libraries 
 
 - :zap: In my free time, I'm creating simple apps for improving daily needs
-- 
+
 - :telescope:I am looking for a job/internship where I can combine my interests with my work
 
 - :mailbox:How to reach me: 
