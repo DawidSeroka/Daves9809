@@ -22,26 +22,13 @@
 ### :man_technologist: About Me :
 I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :seedling: I’m currently learning Jetpack libraries 
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I'm creating simple apps for improving daily needs
+- 
+- :telescope:I am looking for a job/internship where I can combine my interests with my work
 
 - :mailbox:How to reach me: 
     * [![Linkedin Badge](https://img.shields.io/badge/-Daves9809-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daves9809/)
     * [Gmail](gmail.com)
-<!--
-**Daves9809/Daves9809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
