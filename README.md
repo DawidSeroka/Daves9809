@@ -7,6 +7,7 @@
   <a href="https://www.linkedin.com/in/daves9809/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  
 <img src="https://komarev.com/ghpvc/?username=Daves9809&style=flat-square&color=blue" alt=""/>
   
   <h1>
@@ -17,7 +18,6 @@
 </div>
 
 
----
 
 ### :man_technologist: About Me :
 I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
