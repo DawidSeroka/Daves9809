@@ -29,8 +29,6 @@ I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :zap: In my free time, I'm creating simple apps for improving daily needs
 
-- :telescope:I am looking for a job/internship where I can combine my interests with my work
-
 - :mailbox:How to reach me: 
     * [![Linkedin Badge](https://img.shields.io/badge/-Daves9809-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daves9809/)
     * [Gmail](gmail.com)
