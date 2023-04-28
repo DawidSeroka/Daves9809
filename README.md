@@ -19,7 +19,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I am an experienced Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland, with a passion for creating innovative and user-friendly mobile applications.
+I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland, with a passion for creating innovative and user-friendly mobile applications.
 
 - :seedling: I'm currently focused on mastering Jetpack libraries to build robust and scalable Android apps.
 
