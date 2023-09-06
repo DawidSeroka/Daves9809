@@ -21,11 +21,11 @@
 ### :man_technologist: About Me :
 I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland, with a passion for creating innovative and user-friendly mobile applications.
 
-- :seedling: I'm currently focused on mastering Jetpack libraries to build robust and scalable Android apps.
+- :seedling: I'm currently focused on mastering KMM.
 
-- :zap: In my free time, I love to explore new technologies, experiment with UI/UX design, and create simple apps to improve daily needs.
+- :zap: In my free time, I love to explore new technologies, machine learning tools, experiment with UI/UX design.
 
-- :computer: My technical skills include Java, Kotlin, Jetpack Compose, XML, Android Studio, Git, Jira, and Firebase.
+- :computer: My technical skills include Java, Kotlin, Dart, Jetpack Compose, XML, KMM, Flutter, Android Studio, Git, Jira, and Firebase.
 
 - :bulb: I'm always eager to learn and adapt to new technologies and industry best practices to stay up-to-date with the latest trends in the Android development community.
 
